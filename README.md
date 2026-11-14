@@ -1,5 +1,7 @@
 # Olist E-Commerce Power BI Analytics
 ...
+# Olist E-Commerce Dashboard
+
 <img width="1172" height="677" alt="Overview" src="https://github.com/user-attachments/assets/e9f4e542-67ca-4dd9-a300-80b2491409dc" />
 <img width="1162" height="682" alt="Customer analysis" src="https://github.com/user-attachments/assets/2e339471-5981-48ae-af54-f0323d98a882" />
 <img width="1167" height="732" alt="Product Highlights" src="https://github.com/user-attachments/assets/60d25502-bea4-485b-8d9f-9a15ec67d9c7" />
